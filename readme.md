@@ -34,7 +34,7 @@ Before you begin, ensure you have met the following requirements:
 - Virtualenv installed. You can install it via pip by running `pip install virtualenv`.
 
 
-# Run Locally 💻
+# Run Locally 💻 (editing required)
 
 1. Clone the project
 
